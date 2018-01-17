@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+# Copyright (C) 2018 boslab.org
+# Licensed under the MIT License.
+# Created   : 14/Jan/2018 13:08
+# @Poject   : boslab
+# @AUTHOR   : Francis G. Lee
+# Email     : francis@boslab.org
+
+# Configuration for the test coverage tool (py.test --cov)
+
+[run]
+omit = app/startup/reset_db.py
+
+[report]
+show_missing = True
