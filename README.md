@@ -10,7 +10,7 @@ This includes:
 4.  Lab wiki &#42;
 5.  Lab operations&#42; 
 6.  Integrations with Google Drive &#42;, Slack &#42;, Github, SciNote &#42;, 
-Benchling &#42;, Feedly &#42;
+Benchling &#42;, Feedly &#42; PayPal &#42;
 
 &#42; *incomplete*
 
@@ -121,3 +121,4 @@ With thanks to the following Flask extensions:
 ## Authors
 
 - Francis Lee -- francis AT boslab DOT org
+- Timothy Stiles -- tim AT boslab DOT org
