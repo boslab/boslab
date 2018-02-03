@@ -8,8 +8,9 @@ This includes:
 2.  Project management &#42;
 3.  Fully functional LIMS &#42;
 4.  Lab wiki &#42;
-5.  Lab operations&#42; 
-6.  Integrations with Google Drive &#42;, Slack &#42;, Github, SciNote &#42;, 
+5.  Lab Website and Blog &#42;
+6.  Lab operations &#42; 
+7.  Integrations with Google Drive &#42;, Slack &#42;, Github, SciNote &#42;, 
 Benchling &#42;, Feedly &#42; PayPal &#42;
 
 &#42; *incomplete*

@@ -13,7 +13,7 @@
 import os
 
 # Application settings
-APP_NAME = "Flask-User starter app"
+APP_NAME = "boslab"
 APP_SYSTEM_ERROR_SUBJECT_LINE = APP_NAME + " system error"
 
 # Flask settings
